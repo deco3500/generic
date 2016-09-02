@@ -100,12 +100,12 @@ This project will require the use of a UQ server with phpMyAdmin capabilities, M
 
 ###Tags
 ###Social/Mobile:
-#collaborative
-#community
-#mobile
-#smartphone
-#application
+\#collaborative
+\#community
+\#mobile
+\#smartphone
+\#application
 
 ###Journalism/News:
-#misleading
-#bias 
+\#misleading
+\#bias 
