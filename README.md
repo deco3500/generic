@@ -98,7 +98,7 @@ By following the table above, we will ensure at least 2 people are working on ea
 Technical Requirements
 This project will require the use of a UQ server with phpMyAdmin capabilities, MySQL and PHP and linking back to the Git repository.
 
-###Tags
+##Tags
 ###Social/Mobile:
 \#collaborative
 \#community
