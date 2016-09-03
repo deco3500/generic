@@ -90,7 +90,7 @@ Solutions must be decided by via group discussion, including the offending membe
 | ---  | ------ | ------ | ------ | ------- | ------- | ------- |
 | Research |Matt, Sah, Scott, Cam | | Matt, Cam | | | |
 | Mockups of site/application | Matt | | Matt | | Matt | |
-| Electronic & paper prototyping | Sah, Scott | Sah, Scott | Sah,Matt | Scott,Cam | Sah | Sah |
+| Electronic & paper prototyping | Sah, Scott | Sah, Scott | Sah,Matt | Scott, Cam | Sah | Sah |
 | Content creation / documentation | Scott, Sah | | Scott, Sah | | Scott, Sah | |
 | User teting | Scott, Cam | | Scott, Cam | | Scott, Cam | |
 | Database/back end design | | | Cam, Matt | Cam | | |
