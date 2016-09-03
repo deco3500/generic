@@ -17,9 +17,8 @@ The comments by users are not allowed to be negative or bringing others down. Ev
 ###What makes this unique/different from existing solutions?
 The reason this is unique is that the users have full control over displaying only the facts and removing sensationalist media from the picture. It uses systems similar to popular platforms like StackOverflow, Reddit, and traditional news outlets however it takes it one step further by taking the media agenda out of the picture and combines all the positive features of these platforms. Stack Overflow has a proven track record with a reliability system of allowing reliable members to modify content while Reddit has a strong community but lacks direction or purpose. It improves on Reddit by discouraging negative comments and allows modifications to the original post by reliable members and the most up-to-date (most correct) version of the news is always visible instead of clickbait or false reports.
 
-
 ###Target Audience
-psCmm aims to target those that already read news online via smartphones or through a computer web browser. 
+psCmm aims to target those that already read news online via smartphones or through a computer web browser. This will include the users of online news web pages and news applications such as Huffington Post, CNN and Buzzfeed as well as those who use social media in order to obtain news. This targeted demographic will be the combination of those who are interested in news with those who use modern mobile technology. As this is a wide demographic, the vast majority of the target audience will be aged between 20 and 50 and will be gender neutral.
 
 ##The Team
 
