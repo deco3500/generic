@@ -22,8 +22,12 @@ r/Economics
 Identifying the demographics associated with these groups would better illustrate the potential users that may use psCmm regularly. 
 
 ##1.1 Reddit (As A Whole)
-Reddit’s user base consists of the following demographic information. The location and gender statistics have been pulled from information collected in December 2015, the age information has been collected in February 2016. 
-https://goo.gl/43OD47 
+Reddit’s user base consists of the following demographic information. 
+
+The location and gender statistics have been pulled from information collected in December 2015, the age information has been collected in February 2016. 
+
+https://goo.gl/43OD47
+
 https://goo.gl/HuKLN8 
 
 Page Views: 8 Billion
@@ -33,4 +37,6 @@ Time per Session: 11mins
 Although individual subreddits may show a different composition of data relating to gender, age and location, it is useful to note the composition of people that are at least somewhat familiar with the functionality relating to voting on posts and contributing to communities. Theoretically, there are 234 Million people as of December 2015 who understand this functionality. This provides a lot of potential users for psCmm and a good start to market analysis, however we need to further explore the demographic of the related subreddits/communities that were mentioned prior (in addition to site wide data). 
 
 ##Links to mock-ups/prototypes
-https://drive.google.com/open?id=0B-RovhyP-6AlaFE5eEUtN0E1VlU
+Interactive Prototype: https://drive.google.com/open?id=0B-RovhyP-6AldVpmLXE5ekZHSEk
+
+Design Mock-up: https://drive.google.com/open?id=0B-RovhyP-6AlaFE5eEUtN0E1VlU
