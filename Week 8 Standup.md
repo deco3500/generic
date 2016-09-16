@@ -78,3 +78,5 @@ Design Mock-up: https://drive.google.com/open?id=0B-RovhyP-6AlaFE5eEUtN0E1VlU
 In the week 8 practical we discuss the mock-ups and prototypes and get some user-testing and see what people like and dislike about the designs and how easy the user interaction is. We will make appropriate changes and create further electronic prototypes based on this and perform further user-testing. 
 
 The research we have identified will help us understand who to target the application towards and how to design around this.
+
+The research has also helped to understand where our influences (Reddit, StackOverflow, GitHub) succeed and fail so we can learn from this and learn how in include their best features into our application.
