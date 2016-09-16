@@ -30,6 +30,8 @@ https://goo.gl/43OD47
 
 https://goo.gl/HuKLN8 
 
+![Image of Gender](https://github.com/deco3500/generic/blob/master/week8/images/gender.png?raw=true)
+
 Page Views: 8 Billion
 Unique Visits: 234 Million
 Time per Session: 11mins
