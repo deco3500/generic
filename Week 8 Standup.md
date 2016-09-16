@@ -40,6 +40,33 @@ Time per Session: 11mins
 
 Although individual subreddits may show a different composition of data relating to gender, age and location, it is useful to note the composition of people that are at least somewhat familiar with the functionality relating to voting on posts and contributing to communities. Theoretically, there are 234 Million people as of December 2015 who understand this functionality. This provides a lot of potential users for psCmm and a good start to market analysis, however we need to further explore the demographic of the related subreddits/communities that were mentioned prior (in addition to site wide data). 
 
+##Stack Overflow
+###Where it once succeeded
+Stack overflow was the go to website for coding and programming problems and questions with a community based approach. A lot of experts use this site and people found that they were able to learn coding just with the help of people on the site.
+###Issues
+People with high reputation often don’t get downvoted, which is resulting in wrong answers being seen as the best answer. As well as this the community environment has become rather hostile as the user base consists of a large amount of arrogant programmers.
+User interface is very bad for user
+
+Stack overflow has implemented rules and are constantly moderating these in order to resolve these issues. These rules aim to give questions the result of concise and to-the-point answers.
+
+In doing this users feel like they are being steered towards certain opinions with questions being moderated and removed if they do not seem to be fitting (matter of opinion). 
+
+Reddit differs in this as people see that most of these non-allowed questions have value within the community. Therefore reddit seems to have a much larger trust factor in the cloud/community.
+
+Key to Reddit’s success => upvoting and subgroups
+
+##How to apply this to NACT
+- Good ui
+- Keep a distinct focus
+- Subgroups
+- Upvoting
+
+##User testing on mockups
+- Good tool to view original and edit history easily
+- Hamburger button, switch to other side (left top corner), too cramped with other buttons in the top right corner
+- Include subgroups
+- X Button? Something that signifies opening or reading to expand
+
 ##Links to mock-ups/prototypes
 Interactive Prototype: https://drive.google.com/open?id=0B-RovhyP-6AldVpmLXE5ekZHSEk
 
