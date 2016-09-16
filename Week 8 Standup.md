@@ -46,3 +46,8 @@ Interactive Prototype: https://drive.google.com/open?id=0B-RovhyP-6AldVpmLXE5ekZ
 Design Mock-up: https://drive.google.com/open?id=0B-RovhyP-6AlaFE5eEUtN0E1VlU
 
 ![Image of Reddit Age](https://github.com/deco3500/generic/blob/master/week8/images/prototype2.jpg?raw=true)
+
+##Planning for future
+In the week 8 practical we discuss the mock-ups and prototypes and get some user-testing and see what people like and dislike about the designs and how easy the user interaction is. We will make appropriate changes and create further electronic prototypes based on this and perform further user-testing. 
+
+The research we have identified will help us understand who to target the application towards and how to design around this.
