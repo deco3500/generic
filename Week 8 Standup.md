@@ -31,6 +31,8 @@ https://goo.gl/43OD47
 https://goo.gl/HuKLN8 
 
 ![Image of Gender](https://github.com/deco3500/generic/blob/master/week8/images/gender.png?raw=true)
+![Image of User Location](https://github.com/deco3500/generic/blob/master/week8/images/userlocation.png?raw=true)
+![Image of Reddit Age](https://github.com/deco3500/generic/blob/master/week8/images/redditage.png?raw=true)
 
 Page Views: 8 Billion
 Unique Visits: 234 Million
@@ -42,3 +44,5 @@ Although individual subreddits may show a different composition of data relating
 Interactive Prototype: https://drive.google.com/open?id=0B-RovhyP-6AldVpmLXE5ekZHSEk
 
 Design Mock-up: https://drive.google.com/open?id=0B-RovhyP-6AlaFE5eEUtN0E1VlU
+
+![Image of Reddit Age](https://github.com/deco3500/generic/blob/master/week8/images/prototype2.jpg?raw=true)
