@@ -22,3 +22,6 @@ Due to requests to see more features of the application, new mock-ups have been 
 ##Marketing
 
 ##InVision Prototype
+The mockups displayed above have been integrated to work as a basic prototype through InVision. This prototype has been used for testing  and demonstration purposes and will continue to be updated as new iterations of mockups are created. As this is a gradual process, not all features are implemented and not all features are intended to work as represented here. 
+
+Link: https://invis.io/X38UTTA8R#/191020059_1
