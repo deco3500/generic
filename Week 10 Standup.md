@@ -10,4 +10,4 @@ Due to requests to see more features of the application, new mock-ups have been 
 
 ##Marketing
 
-##Invision Prototype
+##InVision Prototype
