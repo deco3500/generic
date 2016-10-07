@@ -18,8 +18,7 @@ Due to requests to see more features of the application, new mock-ups have been 
 ![Image of Mockup](https://raw.githubusercontent.com/deco3500/generic/master/mockups/mockups.png)
 
 ##Promotional Website
-
-##Marketing
+Throughout the last few weeks we decided to begin our promotional website early so that we dont have to rush it later on. To begin with the website a fair amount of research was done. This research was undertaken by browsing kickstarter and viewing the promotional websites for each successful product. The research was fairly straight forward as a lot of the websites were very similar, there is a certain style of page at the moment and I believe that this is a great way to begin with our website. So far there are a few mockups that have been drawn up for the website. At the moment the physical webstie is extremely basic and just a few divs that have beenset up. When planning this website it was decided to first get all the content containers set up and functional before starting to add the content. This will help a lot with workflow rather than trying to do it all at once.
 
 ##InVision Prototype
 The mockups displayed above have been integrated to work as a basic prototype through InVision. This prototype has been used for testing  and demonstration purposes and will continue to be updated as new iterations of mockups are created. As this is a gradual process, not all features are implemented and not all features are intended to work as represented here. 
