@@ -13,7 +13,9 @@ Most of these issues were addressed in the new iteration of the mockups that ext
 
 
 ##Mockups
-Due to requests to see more features of the application, new mock-ups have been created.
+Due to requests to see more features of the application, new mock-ups have been created. Based on the feedback received from Sah, I added in some new features and visiblity from the main menu. I researched common ways to display this information such as default iOS and Android windows. I looked at existing designs from other popular applications and drew inspiration from these.
+
+These are the new designs which have been implemented: 
 
 ![Image of Mockup](https://raw.githubusercontent.com/deco3500/generic/master/mockups/mockups.png)
 
