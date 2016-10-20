@@ -36,7 +36,7 @@ body, html, input, select, option {
 
 header {
 	width: 100%;
-	background: url("../img/challenge_faded.png") center #00a0b5;
+	background: /*url("../img/challenge_faded.png")*/ center #00c284;
 	background-size: 105%;
 	box-sizing: border-box;
 	padding-top: 150px;
@@ -198,11 +198,11 @@ iframe { background: #fff; box-shadow: 0px 0px 10px #aaa; border: 5px solid #fff
 .full-banner-content { display: table-cell; vertical-align: middle; }
 .full-banner-text { font-family: "Manhattan Darling"; font-size: 5.0em; color: #fff; text-shadow: 0px 0px 5px #000; }
 .cane-toad-map { width: 600px; }
-#phone-apps img { margin-right: 30px; }
+#phone-apps img { margin-right: 30px; width: 320px; }
 #phone-apps img:last-child { margin: 0px; }
 #nav-main { float: left; }
 #nav-account { float: right; }
-#logo-large { width: 521px; height: 266px; background: url("../img/logo-big.png"); display: inline-block; }
+#logo-large { width: 521px; height: 266px; background: #fff; display: inline-block; }
 
 .float-left { float: left; }
 .float-right { float: right; }
@@ -412,4 +412,8 @@ input[type="reset"]:hover {
 
 .validator-error {
 	border: 1px solid #ff0000 !important;
+}
+
+.nactlogo p {
+	
 }
