@@ -9,6 +9,8 @@ The additional user testing on this updated prototype revealed that some of thes
 
 The users found that the features included were up to standard. The focus for the new prototype was to produce something that incorporated those features in a much more naturally usable manner. We shifted from the InVision prototype to a functional web based, mobile friendly prototype. This was made in an effort to have more control over each feature and the application in its entirety. This would allow us to simulate a more user friendly and consistent design that more accurately represents mobile interaction patterns.
 
+![alt tag](http://generic/week12/screen 1.png)
+
 Prototype Links: http://www.buhayaussie.com/nact-prototype
 
 Note: Resize browser to desired smartphone size to interact with the prototype.
