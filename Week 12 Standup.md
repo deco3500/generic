@@ -18,3 +18,6 @@ https://docs.google.com/document/d/1E8jWFrSnJ2mAduib-INq_l2edNV1EXnVGjo_IgN-yWI/
 
 ##Website
 After getting suggestions about the sketches made for the website, the promotional website was started. The website itself is almost finished, only missing a few images here and there and some descriptions. The website is on its way to completion, during this session I hope to recieve feedback on its current form to improve on it before the final submission.
+
+![Image of Website](https://raw.githubusercontent.com/deco3500/generic/master/mockups/web1.png)
+![Image of Website](https://raw.githubusercontent.com/deco3500/generic/master/mockups/web2.png)
