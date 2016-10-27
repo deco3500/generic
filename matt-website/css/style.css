@@ -36,7 +36,7 @@ body, html, input, select, option {
 
 header {
 	width: 100%;
-	background: /*url("../img/challenge_faded.png")*/ center #00c284;
+	background: url("../img/faded.svg") center #00c284;
 	background-size: 105%;
 	box-sizing: border-box;
 	padding-top: 150px;
@@ -186,8 +186,7 @@ footer a {
 .details-two-col .detail-half:first-child { float: left; }
 .details-two-col .detail-half:last-child { float: right; }
 
-.main-title { font-size: 1.5em; border: 3px solid #aaa; color: #aaa; text-transform: uppercase; width: auto; padding: 15px 40px; border-radius: 3px; font-weight: bold; }
-
+.main-title { font-size: 1.5em; border-bottom: 10px solid transparent;  border-image: url("../img/underline.svg")  4; color: #aaa; text-transform: uppercase; width: auto; padding: 15px 40px; border-radius: 3px; font-weight: bold; }
 iframe { background: #fff; box-shadow: 0px 0px 10px #aaa; border: 5px solid #fff; }
 
 .full-banner { background-attachment: fixed; background-size: 100%; height: 400px; display: table !important; }
@@ -200,7 +199,7 @@ iframe { background: #fff; box-shadow: 0px 0px 10px #aaa; border: 5px solid #fff
 #phone-apps img:last-child { margin: 0px; }
 #nav-main { float: left; }
 #nav-account { float: right; }
-#logo-large { width: 521px; height: 266px; background-image: url("../img/logo.svg"); display: inline-block;  background-size: contain; background-repeat: no-repeat;}
+#logo-large { width: 521px; height: 266px; background-image: url("../img/logo2.svg"); display: inline-block;  background-size: contain; background-repeat: no-repeat;}
 
 .float-left { float: left; }
 .float-right { float: right; }
@@ -353,38 +352,18 @@ input[type="reset"]:hover {
 	display: inline-block;
 	width: 60px;
 	height: 60px;
-	background-size: 300% !important;	
+	background-size: contain !important;	
 	margin-right: 10px;	
 	border: 0px;
-	background: url("../img/social-media.png");
+	background: url("../img/logo-small.svg");
 } 
 
 #social-media a:last-child {
 	margin-right: 0px;
 }
 
-.social-fb {
-	background-position: 0px 0px !important;
-}
-
-.social-fb:hover {
-	background-position: 0px 100% !important;
-}
-
-.social-gp {
-	background-position: 50% 0% !important;
-}
-
-.social-gp:hover {
-	background-position: 50% 100% !important;
-}
-
-.social-tw {
-	background-position: 100% 0% !important;
-}
-
-.social-tw:hover {
-	background-position: 100% 100% !important;
+.prototype:hover {
+	background: url("../img/logo-small-hover.svg") !important;
 }
 
 .form-table-heading {
