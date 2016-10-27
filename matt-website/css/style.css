@@ -181,9 +181,7 @@ footer a {
 .detail-content { display: table-cell; vertical-align: middle; padding: 60px; box-sizing: border-box;  position: relative; }
 .detail-title { display: inline-block; font-size: 1.2em; }
 .detail-desc { line-height: 1.5; color: #999; }
-.detail-one { background: url("../img/details/161.jpg"); background-size: 100%; }
-.detail-two { background: url("../img/details/bait.jpg"); background-position: 0% 70%; background-size: 100%; }
-.detail-three { background: url("../img/details/toad-large.jpg"); background-position: 50% 0%; background-size: auto 100%; }
+
 
 .details-two-col .detail-half:first-child { float: left; }
 .details-two-col .detail-half:last-child { float: right; }
@@ -192,9 +190,9 @@ footer a {
 
 iframe { background: #fff; box-shadow: 0px 0px 10px #aaa; border: 5px solid #fff; }
 
-.full-banner { background: url("../img/153.jpg"); background-attachment: fixed; background-size: 100%; height: 400px; display: table !important; }
-.banner-rob { background-image: url("../img/153.jpg"); }
-.banner-rob2 { background-image: url("../img/rob2.jpg"); }
+.full-banner { background-attachment: fixed; background-size: 100%; height: 400px; display: table !important; }
+
+.banner-shot { background-image: url("../img/phone - Copy.PNG"); }
 .full-banner-content { display: table-cell; vertical-align: middle; }
 .full-banner-text { font-family: "Manhattan Darling"; font-size: 5.0em; color: #fff; text-shadow: 0px 0px 5px #000; }
 .cane-toad-map { width: 600px; }
@@ -202,7 +200,7 @@ iframe { background: #fff; box-shadow: 0px 0px 10px #aaa; border: 5px solid #fff
 #phone-apps img:last-child { margin: 0px; }
 #nav-main { float: left; }
 #nav-account { float: right; }
-#logo-large { width: 521px; height: 266px; background: #fff; display: inline-block; }
+#logo-large { width: 521px; height: 266px; background-image: url("../img/logo.svg"); display: inline-block;  background-size: contain; background-repeat: no-repeat;}
 
 .float-left { float: left; }
 .float-right { float: right; }
