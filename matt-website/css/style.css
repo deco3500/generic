@@ -197,7 +197,7 @@ iframe { background: #fff; box-shadow: 0px 0px 10px #aaa; border: 5px solid #fff
 .full-banner-content { display: table-cell; vertical-align: middle; }
 .full-banner-text { font-family: "Manhattan Darling"; font-size: 5.0em; color: #fff; text-shadow: 0px 0px 5px #000; }
 .cane-toad-map { width: 600px; }
-#phone-apps img { margin-right: 30px; width: 320px; }
+#phone-apps img { margin-right: 30px; width: 320px; box-shadow: 0px 0px 10px 1px #aaa;}
 #phone-apps img:last-child { margin: 0px; }
 #nav-main { float: left; }
 #nav-account { float: right; }
