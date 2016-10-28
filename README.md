@@ -41,10 +41,10 @@ Our potential solution or method for addressing this issue was by prototyping a 
 
 Nact’s functionality consists of allowing users to submit news articles, modify articles and vote on changes made. Users vote on whether the changes reflect that of the facts provided and whether the article is neutral. Each iteration of the revised article will be voted on until a green bar showing the neutrality and integrity reaches a certain threshold. This bar changes to green or red depending on what tags the users are marking the article with i.e. clickbait, fact, fear-mongering.  It is only when the green bar is at a certain length that the article will be pushed to a verified section. Article verifications are based on the quality and integrity of the modifications. This could be achieved through the emergence of facts with accurate sources, the submission of proof/evidence by users (videos, documents) and more generally, the rewording of articles to remove opinion based evaluations of a topic made by the original author. This modifications can be seen through a version history function that allows the community to accurately see all changes that were made. Through these features, Nact will enable community members to moderate the news to provide factual information that’s free from bias. The images below are screenshots from the Nact application.
 
-![Nact 1](https://github.com/deco3500/generic/blob/master/images/appscreenshot1.png)
-![Nact 2](https://github.com/deco3500/generic/blob/master/images/appscreenshot2.png)
-![Nact 3](https://github.com/deco3500/generic/blob/master/images/appscreenshot3.png)
-![Nact 4](https://github.com/deco3500/generic/blob/master/images/appscreenshot4.png)
+![Nact 1](https://github.com/deco3500/generic/blob/master/images/appscreenshot1.png | width=100)
+![Nact 2](https://github.com/deco3500/generic/blob/master/images/appscreenshot2.png | width=100)
+![Nact 3](https://github.com/deco3500/generic/blob/master/images/appscreenshot3.png | width=100)
+![Nact 4](https://github.com/deco3500/generic/blob/master/images/appscreenshot4.png | width=100)
 
 
 ##The Process
