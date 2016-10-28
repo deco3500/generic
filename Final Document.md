@@ -20,13 +20,13 @@ Aim for no more than 1,000 words plus images. References not included in count. 
 Documentation should be presented either on your main Github repository readme.md or linked from there.
 There is no set format for this, however, we are keen to see a strong visual component as well as some contextual detail
 
-##Links
+#Links
 
-###Promotional Website
+##Promotional Website
 https://mattyleggy.github.io/index.html
 
 
-###Prototype
+##Prototype
 **NOTE: To use this prototype you should resize your browser to be similar to that of a mobile phone screen or use a mobile phone. This will provide you with a more realistic experience as the prototype has only been designed for mobile devices.** 
 
 URL: https://mattyleggy.github.io/prototype/index.html
