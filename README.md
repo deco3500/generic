@@ -53,6 +53,14 @@ The prototyping process took several steps, in a near agile development process.
 
 The process was primarily split up into three stand-ups which were treated as sprints. The first of these stand-ups allowed us to conduct research as well as basic wireframe mockups for the prototype. This research was used to understand the problem space, market and user base. Through analysing the existing markets and the users that form the communities within these applications, we were able to understand where NACT could emerge and make an impact on the already existing market. The second stand-up allowed for further progression with the mock-ups into functioning Invision prototypes. User testing was also conducted to receive feedback that was used to guide changes to the functionality, user interface and user experience. Advertising and promotional material was also a focus throughout this sprint. Advertising was aimed towards a specific audience based on user research which created our target market. Idea generation for the promotional material also took place. The third and final stand-up was treated as the last sprint before the final deadline. Feedback and changes played a major role in this stand-up. A google form was used to retrieve feedback from users that we could use to improve the functionality and design of the website.
 
+An in-depth summary of research, development and testing feedback obtained in each sprint can be found in the following markdown files;
+
+Sprint 1 (week 8 stand-up) : https://github.com/deco3500/generic/blob/master/Week%208%20Standup.md
+
+Sprint 2 (week 10 stand-up) : https://github.com/deco3500/generic/blob/master/Week%2010%20Standup.md
+
+Sprint 3 (week 12 stand-up) : https://github.com/deco3500/generic/blob/master/Week%2012%20Standup.md
+
 
 ##Workload Distribution
 
