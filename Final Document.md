@@ -75,4 +75,4 @@ A further breakdown of the tasks that each member contributed time to each week 
 | User testing | Sah, Cam | | Sah, Cam | | Sah | |
 | Market Research | Sah, Cam | Sah, Cam | Cam | | | |
 | Site/app implementation | | | Matt | Matt, Scott | Matt, Scott | Matt, Scott |
-| Advertising and Promtion Research | | | | Cam |	Cam | Scott |
+| Advertising and Promotion Research | | | | Cam |	Cam | Scott |
