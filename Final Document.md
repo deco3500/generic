@@ -20,11 +20,19 @@ Aim for no more than 1,000 words plus images. References not included in count. 
 Documentation should be presented either on your main Github repository readme.md or linked from there.
 There is no set format for this, however, we are keen to see a strong visual component as well as some contextual detail
 
+##Links
+
+###Promotional Website
+https://mattyleggy.github.io/index.html
+
+
+###Prototype
+https://mattyleggy.github.io/prototype/index.html
 
 ##Promotional Material
 NACT will be promoted through the use of a kickstarter-style website. 
 
-~~Link for website~~
+
 
 ~~about the website~~
 
