@@ -51,9 +51,13 @@ The process was primarily split up into three stand-ups which were treated as sp
 The workload was distributed evenly with members of the team taking on tasks each week and working towards each sprint. Main roles for each group member are as follows;
 
 Matthew Lord -- Mockups/Application
+
 Scott Gillam -- Website
+
 Sah Kilic -- Testing/Documentation
+
 Cameron McGavin -- Research/Documentation
+
 
 
 A further breakdown of the tasks that each member contributed time to each week can be found below.
