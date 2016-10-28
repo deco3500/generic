@@ -27,8 +27,9 @@ https://mattyleggy.github.io/index.html
 
 
 ###Prototype
-To use this prototype you should resize
-https://mattyleggy.github.io/prototype/index.html
+**NOTE: To use this prototype you should resize your browser to be similar to that of a mobile phone screen or use a mobile phone. This will provide you with a more realistic experience as the prototype has only been designed for mobile devices.** 
+
+URL: https://mattyleggy.github.io/prototype/index.html
 
 ##Promotional Material
 NACT will be promoted through the use of a kickstarter-style website. 
