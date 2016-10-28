@@ -1,30 +1,34 @@
-#DECO3500
-#Final Document
-#Social and Mobile Computing
+##DECO3500 - Final Document - Social and Mobile Computing
 
 
-#Team Generic
-43530429 	Scott Gillam
+##Team Generic
+* 43530429 	Scott Gillam
+* 43216938 	Sah Kilic
+* 43543317 	Matthew Lord
+* 43539150 	Cameron McGavin
 
-43216938 	Sah Kilic
+Due: Sunday, 30th October 2016
 
-43543317 	Matthew Lord
-
-43539150 	Cameron McGavin
-
-
-Sunday 30th October 2016
-
-#Notes: 
+##Notes: 
 Aim for no more than 1,000 words plus images. References not included in count. Reference in any style, but be consistent.
 Documentation should be presented either on your main Github repository readme.md or linked from there.
 There is no set format for this, however, we are keen to see a strong visual component as well as some contextual detail
 
+#Links
+
+##Promotional Website
+https://mattyleggy.github.io/index.html
+
+
+##Prototype
+**NOTE: To use this prototype you should resize your browser to be similar to that of a mobile phone screen or use a mobile phone. This will provide you with a more realistic experience as the prototype has only been designed for mobile devices.** 
+
+URL: https://mattyleggy.github.io/prototype/index.html
 
 ##Promotional Material
 NACT will be promoted through the use of a kickstarter-style website. 
 
-~~Link for website~~
+
 
 ~~about the website~~
 
