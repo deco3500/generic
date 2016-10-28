@@ -123,12 +123,20 @@ $.goToHash = function() {
 };
 
 $.navScroll = function() {
-	fromtop = $(document).scrollTop()-300; //should probably figure out a better number than a fixed 300...
-	for (i = 0; i < $(".goto-link").length; i++) {				
-		if ($(".goto-link:eq("+i+")").offset().top >= fromtop) { 
-			break;							
-		}
-	}	
+	fromtop = $(document).scrollTop()+300; //should probably figure out a better number than a fixed 300...
+	length = $(".goto-link").length;
+	for (i = 0; i < $(".goto-link").length; i++) {					
+		if (fromtop >= $(".goto-link:eq("+i+")").offset().top) {		
+			if (i < (length-1)) {
+				if (fromtop <= $(".goto-link:eq("+(i+1)+")").offset().top) {	
+					console.log(fromtop,$(".goto-link:eq("+i+")").offset().top);
+					break;
+				}
+			} else {
+				break;
+			}
+		} 
+	}		
 	x = 0;
 	$(".content-selector li").each(function(){
 		if (x==i) {				
