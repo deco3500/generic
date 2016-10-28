@@ -67,11 +67,9 @@ video {
 }
 
 header {
-	width: 100%;
-	height: 70%;
-	min-height: 600px;
-	background: url("../img/faded.svg") center #00c284;
-	background-size: 105%;
+	width: 100%;	
+	height: 700px;
+	background: #000;	
 	box-sizing: border-box;
 	position: relative;
 	overflow: hidden;
