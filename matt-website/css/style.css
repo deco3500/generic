@@ -18,6 +18,38 @@ body, html, input, select, option {
 	font-family: Lato, "Tahoma", "Arial", "Trebuchet MS";	
 }
 
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
+#header-content {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);	
+}
+
+video {
+	position: absolute;	
+	left: 50%;	
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 100%;	
+	background: url("../img/loader.gif") #000 no-repeat;
+	background-position: calc(100% - 20px) calc(100% - 84px);
+	background-size: 64px;
+}
+
+#video-overlay {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background: rgba(0,0,0,0.7);
+	display: inline-block;
+	left: 0px;
+}
+
 #loader {
 	position: fixed;
 	top: 50%;
@@ -36,11 +68,13 @@ body, html, input, select, option {
 
 header {
 	width: 100%;
+	height: 70%;
+	min-height: 600px;
 	background: url("../img/faded.svg") center #00c284;
 	background-size: 105%;
 	box-sizing: border-box;
-	padding-top: 150px;
-	padding-bottom: 80px;
+	position: relative;
+	overflow: hidden;
 }
 
 nav {
@@ -79,7 +113,6 @@ nav ul li {
 nav ul li a:link, nav ul li a:visited {
 	color: #888;
 	text-decoration: none;
-	font-weight: bold;
 	font-size: 1.0em;
 	padding: 25px 20px;
 	display: inline-block;
@@ -188,7 +221,7 @@ footer a {
 .details-two-col .detail-half:first-child { float: left; }
 .details-two-col .detail-half:last-child { float: right; }
 
-.main-title { font-size: 1.5em; border-bottom: 10px solid transparent;  border-image: url("../img/underline.svg")  4; color: #aaa; text-transform: uppercase; width: auto; padding: 15px 40px; border-radius: 3px; font-weight: bold; }
+.main-title { font-size: 1.5em; border-bottom: 10px solid transparent;  border-image: url("../img/underline.svg")  4; color: #000; text-transform: uppercase; width: auto; padding: 15px 40px; border-radius: 3px; font-weight: bold; }
 iframe { background: #fff; box-shadow: 0px 0px 10px #aaa; border: 5px solid #fff; }
 
 .full-banner { background-attachment: fixed; background-size: 100%; height: 400px; display: table !important; }
@@ -201,7 +234,7 @@ iframe { background: #fff; box-shadow: 0px 0px 10px #aaa; border: 5px solid #fff
 #phone-apps img:last-child { margin: 0px; }
 #nav-main { float: left; }
 #nav-account { float: right; }
-#logo-large { width: 521px; height: 266px; background-image: url("../img/logo2.svg"); display: inline-block;  background-size: contain; background-repeat: no-repeat;}
+#logo-large { width: 521px; height: 200px; background-image: url("../img/logo2.svg"); display: inline-block;  background-size: contain; background-repeat: no-repeat;}
 
 .float-left { float: left; }
 .float-right { float: right; }
