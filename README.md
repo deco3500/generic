@@ -29,24 +29,25 @@ URL: https://mattyleggy.github.io/prototype/index.html
 NACT will be promoted through the use of a kickstarter-style website. 
 
 
-
-~~about the website~~
-
 In order to attract users and build a larger community base, the application will also have a great social media presence. Utilising social media platforms such as Facebook and Twitter will greatly increase our market reach and help target our targeted audience.
 
 
 ##Summary
+News is often biased, false, misleading or in some cases has malicious intent. It reflects the values of the writer and can be directly influenced by the publishing organisation’s agenda. This creates a landscape for articles that are written with the intention of leading readers to form an opinion, partake in an activity, invest time or money in something completely based on incorrect information. The implications of this range from pushing certain political agendas and spreading misinformation for shock value (higher web traffic), to the misrepresentation/misinterpretation of financial data that could affect an otherwise healthy company/economy. It is these false representations that reduce the credibility of modern journalism, thus providing an opportunity to further explore potential solutions. 
 
-News is often biased, false, misleading or has malicious intent. NACT aims to create a positive community which collaborates to remove bias, provide facts, limit opinions, opposes fear mongering.
 
-We addressed this issue by prototyping a smartphone based application called Nact, that utilises crowd sourced data in the form of a collaborative community. Nact is a platform where this community can come together to modify and moderate news articles, fact check sources and submit evidence to support the truth rather than the story being pushed by the news outlet.
+Our potential solution or method for addressing this issue was by prototyping a smartphone based application called Nact. Nact utilises crowd sourced data in the form of a fact based, self moderating, collaborative community. Nact is a platform where this community can come together to modify and moderate news articles, fact check sources and submit evidence to support the truth rather than the story or opinions being pushed by news outlets. This is an effort to remove the spread of misinformation and effectively reduce the negative impact caused by heavily biased articles; regardless of whether they are right or left leaning in nature. Nact provides several options in terms of functionality to distribute these solutions to the community.
 
-Write more about the app and its functionality
+
+Nact’s functionality consists of allowing users to submit news articles, modify articles and vote on changes made. Users vote on whether the changes reflect that of the facts provided and whether the article is neutral. Each iteration of the revised article will be voted on until a green bar showing the neutrality and integrity reaches a certain threshold. This bar changes to green or red depending on what tags the users are marking the article with i.e. clickbait, fact, fear-mongering.  It is only when the green bar is at a certain length that the article will be pushed to a verified section. Article verifications are based on the quality and integrity of the modifications. This could be achieved through the emergence of facts with accurate sources, the submission of proof/evidence by users (videos, documents) and more generally, the rewording of articles to remove opinion based evaluations of a topic made by the original author. This modifications can be seen through a version history function that allows the community to accurately see all changes that were made. Through these features, Nact will enable community members to moderate the news to provide factual information that’s free from bias. The images below are screenshots from the Nact application.
+
+![Nact 1](https://github.com/deco3500/generic/blob/master/images/appscreenshot1.png)
+![Nact 2](https://github.com/deco3500/generic/blob/master/images/appscreenshot2.png)
+![Nact 3](https://github.com/deco3500/generic/blob/master/images/appscreenshot3.png)
+![Nact 4](https://github.com/deco3500/generic/blob/master/images/appscreenshot4.png)
 
 
 ##The Process
-~~{would like to add some theory stuff from lectures throughout}~~
-
 
 The prototyping process took several steps, in a near agile development process. Throughout the semester the team would all participate in stand-ups which would help with collaboration and discuss what has been completed and what is needed to progress forward with the prototype. Zenhub along with Github were also used throughout the process in order to enhance task allocation and collaboration.
 
