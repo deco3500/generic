@@ -1,5 +1,4 @@
-#DECO3500 - Final Document
-###Social and Mobile Computing
+##DECO3500 - Final Document | Social and Mobile Computing
 
 
 #Team Generic
