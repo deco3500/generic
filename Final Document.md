@@ -27,6 +27,7 @@ https://mattyleggy.github.io/index.html
 
 
 ###Prototype
+To use this prototype you should resize
 https://mattyleggy.github.io/prototype/index.html
 
 ##Promotional Material
