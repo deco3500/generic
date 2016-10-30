@@ -41,41 +41,64 @@ Each members of Nact has a score associated with their account. This number repr
 
 Members of the community can comment on each article that is posted however their reliablity rating is not visible and cannot be seen by other users. They can display a name on the comment if they wish however their actual username and profile will be hidden. This is to stop people from assuming highly reliable members are always correct and automatically siding with their opinion. Instead, it attempts to make people read the comments and make their own educated decision. 
 
+###Application Screenshots
+
 ![Nact 1](https://github.com/deco3500/generic/blob/master/images/appscreenshot1.png)
 
-Home page for Nact, shows all news.
+Screenshot 1 - Home page for Nact, shows all news.
 
 ![Nact 2](https://github.com/deco3500/generic/blob/master/images/appscreenshot2.png)
 
-Nact side menu.
+Screenshot 2 - Nact side menu.
 
 ![Nact 3](https://github.com/deco3500/generic/blob/master/images/appscreenshot3.png)
 
-Options for a news article.
+Screenshot 3 - Options for a news article.
 
 ![Nact 4](https://github.com/deco3500/generic/blob/master/images/appscreenshot4.png)
 
-Specific news article page.
+Screenshot 4 - Specific news article page.
 
 ![Nact 5](https://github.com/deco3500/generic/blob/master/images/appscreenshot5.png)
 
-Rating options for a specific article.
+Screenshot 5 - Rating options for a specific article.
 
 ![Nact 6](https://github.com/deco3500/generic/blob/master/images/appscreenshot6.png)
 
-Select multiple attributes to rate an article.
+Screenshot 6 - Select multiple attributes to rate an article.
 
 ![Nact 7](https://github.com/deco3500/generic/blob/master/images/appscreenshot7.png)
 
-Add a comment on an article.
+Screenshot 7 - Add a comment on an article.
 
 ![Nact 8](https://github.com/deco3500/generic/blob/master/images/appscreenshot8.png)
 
-Modify screen, make changes to an article.
+Screenshot 8 - Modify screen, make changes to an article.
 
 ![Nact 9](https://github.com/deco3500/generic/blob/master/images/appscreenshot9.png)
 
-Description of changes made.
+Screenshot 9 - Description of changes made.
+
+
+###Instructions and User Guide for Prototype
+
+1) The home page you are directed to shows all the news articles for the current point in time (visible in screenshot 1)
+
+2) From this home page, you can open the side menu, accessible by clicking the hamburger button in the top left corner. This menu allows you to see your username and user rating, along with links to view all news, or only verified/unverified news (visible in screenshot 2).
+
+3) Clicking the three dots beside any specific news article will open a list of options for the respective article (visible in screenshot 3).
+
+4) Clicking on a news article from the home page will take you to that specific article to read (visible in screenshot 4).
+
+5) You can rate any given news article by clicking the three dots beside the specific article and clicking rate as (visible in screenshot 5).
+
+6) You are able to select multiple ratings at the one time (visible in screenshot 6).
+
+7) Commenting on an article can be accessed by the large green button below the article itself. You will be prompted for your name and comment. Once you have filled in these two fields, click 'Save Comment' (visible in screenshot 7).
+
+8) You can make a modification to any article by selecting Modify in the options list for the respective article. The articles title, image and description will come up in three separate fields. Once you have made your modifications, click 'Save Changes' below (visible in screenshot 8).
+
+9) You are able to view any recent changes made to an article by accessing the articles options list and clicking 'Changes' (visible in screenshot 9).
 
 
 
