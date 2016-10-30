@@ -42,9 +42,16 @@ Each members of Nact has a score associated with their account. This number repr
 Members of the community can comment on each article that is posted however their reliablity rating is not visible and cannot be seen by other users. They can display a name on the comment if they wish however their actual username and profile will be hidden. This is to stop people from assuming highly reliable members are always correct and automatically siding with their opinion. Instead, it attempts to make people read the comments and make their own educated decision. 
 
 ![Nact 1](https://github.com/deco3500/generic/blob/master/images/appscreenshot1.png)
+Home page for Nact, shows all news.
+
 ![Nact 2](https://github.com/deco3500/generic/blob/master/images/appscreenshot2.png)
+Nact side menu.
+
 ![Nact 3](https://github.com/deco3500/generic/blob/master/images/appscreenshot3.png)
+Options for a news article.
+
 ![Nact 4](https://github.com/deco3500/generic/blob/master/images/appscreenshot4.png)
+Specific news article page.
 
 
 ##The Process
