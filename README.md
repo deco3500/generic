@@ -9,11 +9,6 @@
 
 Due: Sunday, 30th October 2016
 
-##Notes: 
-Aim for no more than 1,000 words plus images. References not included in count. Reference in any style, but be consistent.
-Documentation should be presented either on your main Github repository readme.md or linked from there.
-There is no set format for this, however, we are keen to see a strong visual component as well as some contextual detail
-
 #Links
 
 ##Promotional Website
