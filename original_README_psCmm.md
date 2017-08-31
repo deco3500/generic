@@ -86,6 +86,7 @@ Solutions must be decided by via group discussion, including the offending membe
 | Week 12 Standup / Final Deliverable | Well refined website implementation with interactive prototypes for possible future changes and direction. |
 
 ###How will we achieve this?
+
 | Task | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 |
 | ---  | ------ | ------ | ------ | ------- | ------- | ------- |
 | Research |Matt, Sah, Scott, Cam | | Matt, Cam | | | |
